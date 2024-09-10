@@ -1,0 +1,1 @@
+# GLNet-A-Deep-Light-Weight-Convolutional-Neural-Network-for-Grape-Leaf-Diseases-Detection
